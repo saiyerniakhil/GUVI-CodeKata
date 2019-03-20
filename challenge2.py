@@ -1,8 +1,8 @@
 try:
 	x = int(input())
 	if(x%2==0):
-		print('Even')
+		print('Even',end="")
 	else:
-		print('Odd')
+		print('Odd',end="")
 except:
-	print('Invalid')
+	print('Invalid',end="")
