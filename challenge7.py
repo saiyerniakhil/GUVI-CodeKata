@@ -1,5 +1,5 @@
 try:
     x = int(input())
-    print('hello\n'*x)
+    print('Hello\n'*x)
 except:
     print('invalid',end="")
