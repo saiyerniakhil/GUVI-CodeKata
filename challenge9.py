@@ -4,7 +4,7 @@ try:
     #print(n,x)
     n_a = [int(i) for i  in range(1,n+1)]
     sum = 0
-    print(n_a)
+    #print(n_a)
     if(k < n):
         for i in range(0,k):
             sum = sum + n_a[i]
