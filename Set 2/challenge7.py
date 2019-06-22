@@ -8,3 +8,5 @@ print(sum)
 
 if(sum == int(x)):
     print("YES",end="")
+else:
+    print("no",end="")
