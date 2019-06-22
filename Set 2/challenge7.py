@@ -7,6 +7,6 @@ for i in x:
 print(sum)
 
 if(sum == int(x)):
-    print("YES",end="")
+    print("yes",end="")
 else:
     print("no",end="")
