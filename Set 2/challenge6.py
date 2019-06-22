@@ -15,4 +15,4 @@ for i in range(0,len(primes)):
 		if(i == len(primes)-1):
 			print(i,end="")
 		else:
-        	print(i,end=" ")
+			print(i,end=" ")
