@@ -12,3 +12,5 @@ dic = {
     10 : 'X',
     11 : 'XI'
 }
+
+# for i,j in dic.items()
