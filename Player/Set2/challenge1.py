@@ -6,8 +6,9 @@ class Days:
         else:
             return "no"
 
-x = input()
-y = input()
+x = input().split(" ")
 ob = Days()
-print(ob.holiday(x))
-print(ob.holiday(y))
+
+for i in x:
+    print(ob.holiday(i))
+
