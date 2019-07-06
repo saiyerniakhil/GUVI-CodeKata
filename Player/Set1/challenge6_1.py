@@ -5,7 +5,7 @@ y = s1
 for i in range(len(s1)):
     y = y.replace(y[i],s2[i])
 
-print(y)
+#print(y)
 
 if(y == s2):
     print("yes")
